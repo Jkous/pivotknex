@@ -1,0 +1,20 @@
+{
+  "name": "pivot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node sendin.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^2.3.0",
+    "tedious": "^15.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
