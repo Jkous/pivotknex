@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "knex": "^2.3.0",
-    "tedious": "^15.1.0"
+    "tedious": "^18.3.0"
   },
   "devDependencies": {
     "typescript": "^4.8.4"
